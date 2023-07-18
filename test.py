@@ -9,3 +9,5 @@ for char in user_input:
         operation_dict[char] += 1
 
 print(operation_dict)
+print(operation_dict.keys())
+print(operation_dict.values())
