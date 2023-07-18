@@ -31,3 +31,7 @@
 #         return is_palindrome(word[1:-1])
     
 # print(is_palindrome("qwertytrewq"))
+
+from math import pi as QWERT
+
+print(QWERT)
